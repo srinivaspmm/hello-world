@@ -1,2 +1,2 @@
-#!/usr/bin/sh.exe
+#!/usr/bin/sh
 echo "hello world"
